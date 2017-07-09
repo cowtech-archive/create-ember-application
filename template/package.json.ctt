@@ -20,6 +20,7 @@
   },
   "homepage": "{{url}}",
   "devDependencies": {
+    "@cowtech/eslint-config": "~4.2",
     "broccoli-asset-rev": "~2.5",
     "ember-ajax": "~2.5",
     "ember-cli": "2.10",
@@ -34,8 +35,7 @@
     "ember-load-initializers": "~0.5",
     "ember-resolver": "~2.1",
     "ember-truth-helpers": "~1.2",
-    "eslint": "~4.1",
-    "@cowtech/eslint-config": "~4.1",
+    "eslint": "~4.2",
     "loader.js": "~4.0"
   },
   "engines": {
