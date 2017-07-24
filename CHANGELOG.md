@@ -1,3 +1,7 @@
+### 2017-07-24 / 0.0.4
+
+* Use a non-buggy package-utils.
+
 ### 2017-07-24 / 0.0.3
 
 * Added audit command.
