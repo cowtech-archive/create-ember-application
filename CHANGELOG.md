@@ -1,4 +1,4 @@
-### 2017-07-24 / 0.1.2
+### 2017-07-24 / 0.0.3
 
 * Added audit command.
 * Switched to @cowtech/package-utils.
