@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "@cowtech/create-base": "~0.0",
-    "@cowtech/package-utils": "~0.1"
+    "@cowtech/package-utils": "~0.2"
   }
 }

@@ -9,9 +9,9 @@
     find "~0.2"
     fs-extra "~3.0"
 
-"@cowtech/package-utils@~0.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@cowtech/package-utils/-/package-utils-0.1.1.tgz#ba8d0e80f07b7589d3f5e8dd5979f7a30a1384c7"
+"@cowtech/package-utils@~0.2":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@cowtech/package-utils/-/package-utils-0.2.0.tgz#8d4518bfb0687dc37fd89d4970e73aec6775b51d"
   dependencies:
     commander "~2.11"
     semver "^5.3.0"
