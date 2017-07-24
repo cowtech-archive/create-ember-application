@@ -6,7 +6,8 @@
   "scripts": {
     "build": "ember build",
     "start": "ember server",
-    "lint": "eslint ember-cli-build.js app config public --ext .js"
+    "lint": "eslint ember-cli-build.js app config public --ext .js",
+    "audit": "mkdir -p tmp && lighthouse http://localhost:4200 --output html --output-path tmp/lighthouse.html --view"
   },
   "repository": {
     "type": "git",
