@@ -1,6 +1,6 @@
 {
   "name": "@cowtech/create-ember-application",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "CowTech Template: Ember.js application",
   "main": "index.js",
   "files": [
