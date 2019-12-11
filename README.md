@@ -1,5 +1,7 @@
 # @cowtech/create-ember-application
 
+## END OF DEVELOPMENT NOTICE - This package has been discontinued
+
 Boilerplate for a Ember.js application.
 
 ## Copyright
